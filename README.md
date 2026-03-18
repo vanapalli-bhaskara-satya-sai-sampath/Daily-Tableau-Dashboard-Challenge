@@ -89,115 +89,35 @@ To analyze global e-commerce sales data and identify actionable insights that im
 
 ## Key Business Questions / Requirements
 
-### 1. Revenue vs Profit Analysis
-- Identify regions where **high sales do not translate into profit**
-- Analyze impact of **discounts and shipping costs on profit margins**
-- Highlight **loss-making regions and root causes**
+Why are we generating high sales but not proportional profits in certain regions? I suspect discounting or shipping costs are eating into margins — I want clarity on where exactly we’re losing money despite strong revenue.
 
----
+Which markets are actually worth scaling? Just because a region has high sales doesn’t mean it’s profitable. Show me where we should double down and where we should pull back.
 
-### 2. Market Performance Evaluation
-- Compare **markets and regions based on profitability (not just sales)**
-- Identify:
-  - High Sales + High Profit → *Scale opportunities*
-  - High Sales + Low Profit → *Optimization needed*
-  - Low Sales + Low Profit → *Deprioritize*
+I see we are offering discounts — but are they even working? Are higher discounts actually increasing volume, or just reducing profit? I want to know the tipping point where discounts stop making business sense.
 
----
+Shipping costs seem like a silent killer. Are there specific regions, ship modes, or order priorities where shipping costs are disproportionately high compared to sales?
 
-### 3. Discount Effectiveness
-- Analyze relationship between **discount and sales volume**
-- Determine:
-  - Optimal discount levels
-  - Scenarios where discounts reduce profitability
-- Identify **over-discounted transactions**
+Who are our most valuable customers? Not just high spenders — I want customers who bring consistent profit. Also, are we overly dependent on a small group of customers?
 
----
+What product categories or sub-categories are hurting us? I’m sure some products are being sold at a loss — why are we still selling them?
 
-### 4. Shipping Cost Optimization
-- Evaluate shipping cost as a % of sales
-- Identify:
-  - Regions with high shipping expenses
-  - Inefficient shipping modes
-  - Impact of order priority on cost
+Is there a mismatch between order priority and shipping mode? For example, are we using expensive shipping for low-priority orders? That’s inefficient and needs fixing.
 
----
+Are there seasonal patterns we are not capitalizing on? I want to know when demand peaks and whether we are maximizing revenue during those periods.
 
-### 5. Customer Profitability Analysis
-- Identify:
-  - Most profitable customers
-  - High-revenue but low-profit customers
-- Analyze customer dependency:
-  - % of revenue from top customers
-- Segment customers based on **profit contribution**
+Which cities or countries have high order volume but low profitability? That signals operational inefficiencies, pricing issues, or logistics problems.
 
----
+What is the relationship between quantity and profit? Are bulk orders actually helping us, or are they being driven by heavy discounts that kill margins?
 
-### 6. Product Performance Analysis
-- Identify:
-  - Loss-making products
-  - High-performing categories and sub-categories
-- Evaluate:
-  - Profitability by category
-  - Products with consistent negative margins
-- Recommend:
-  - Price changes or discontinuation
+Are certain customer segments (Consumer, Corporate, Home Office) more profitable than others? If yes, why aren’t we targeting them more aggressively?
 
----
+Do we have products with consistently negative profit across multiple regions? If yes, why haven’t we discontinued or repriced them?
 
-### 7. Order & Logistics Efficiency
-- Analyze alignment between:
-  - Order Priority vs Shipping Mode
-- Identify:
-  - Cost inefficiencies in logistics decisions
-- Recommend optimization strategies
+How does order priority impact delivery cost and profitability? Are we over-serving low-value orders?
 
----
+Is our pricing strategy consistent globally, or are we blindly applying discounts without considering regional purchasing power and logistics?
 
-### 8. Seasonal & Time-Based Trends
-- Identify:
-  - Monthly/quarterly sales and profit trends
-  - Peak demand periods
-- Evaluate:
-  - Whether business is maximizing high-demand periods
-
----
-
-### 9. Geographic Profitability
-- Analyze:
-  - Profitability at city, state, and country level
-- Identify:
-  - High volume but low-profit locations
-- Provide insights on:
-  - Pricing, logistics, or operational gaps
-
----
-
-### 10. Quantity vs Profit Relationship
-- Analyze:
-  - Whether bulk orders increase profitability
-- Identify:
-  - Cases where high quantity leads to lower margins
-
----
-
-### 11. Segment-Wise Analysis
-- Compare:
-  - Consumer vs Corporate vs Home Office
-- Identify:
-  - Most profitable segment
-- Recommend:
-  - Targeting and marketing focus
-
----
-
-### 12. Pricing Strategy Evaluation
-- Assess:
-  - Consistency of pricing across regions
-- Identify:
-  - Regions with aggressive discounting
-- Recommend:
-  - Region-specific pricing strategies
+Are there anomalies — like unusually high discounts, negative profits, or extreme shipping costs — that indicate data issues or operational problems?
 
 ---
 ---
