@@ -155,3 +155,63 @@ The goal is to strengthen fundamentals in **data visualization, layout design, a
 ## Objective
 
 To explore and analyze sales data across key dimensions such as **time, category, and region**.
+
+---
+
+## Day 4 – Product & Category Performance Dashboard
+
+**Live Dashboard:**
+https://public.tableau.com/app/profile/sampath.vanapalli/viz/19-03SalesAnalysis/Dashboard2
+
+---
+
+### Overview
+
+This dashboard focuses on analyzing product-level and category-level performance to understand which areas are driving revenue and profitability.
+
+The goal is to identify high-performing categories, detect loss-making sub-categories, and uncover gaps where strong sales are not translating into profits.
+
+---
+
+### Objective
+
+To evaluate sales and profit distribution across product categories and sub-categories, and identify opportunities for optimization and cost control.
+
+---
+
+### Key Questions Answered
+
+1. Which product category (Furniture, Office Supplies, Technology) has the highest sales?
+2. Which product category has the highest profit?
+3. Which sub-category (e.g., Phones, Chairs, Binders) sells the most?
+4. Which sub-category has the lowest or negative profit — are we losing money on it?
+5. Is there a product category where sales are high but profit is low?
+
+---
+
+### Key Insights (Example – Update based on your findings)
+
+* Technology contributes the highest sales and profit, indicating strong demand and margins.
+* Certain sub-categories like Chairs or Tables show high sales but low profit, suggesting heavy discounting or high costs.
+* Some sub-categories generate negative profit, highlighting areas where the business is losing money.
+* Office Supplies may have stable performance with moderate sales and consistent profit margins.
+
+---
+
+### Dashboard Features
+
+* Category-wise Sales vs Profit comparison
+* Sub-category performance breakdown
+* Identification of loss-making segments
+* Visual comparison of high revenue vs low profitability areas
+
+---
+
+### Learning Outcome
+
+* Improved understanding of product-level profitability
+* Ability to identify cost inefficiencies and discount impacts
+* Enhanced skills in building focused analytical dashboards
+
+---
+
