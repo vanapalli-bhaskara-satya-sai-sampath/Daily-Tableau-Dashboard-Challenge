@@ -221,3 +221,61 @@ To evaluate sales and profit distribution across product categories and sub-cate
 
 ---
 
+## Day 5 – Negative Profit Analysis Dashboard
+
+**Live Dashboard:**  
+[Add your Tableau link here]
+
+---
+
+## Overview
+
+This dashboard focuses on identifying loss-making areas in the business by analyzing negative profit across countries, product categories, and sub-categories.
+
+It highlights where strong sales are not translating into profit and helps uncover the key drivers behind these losses.
+
+---
+
+## Objective
+
+To detect and analyze negative profit patterns and understand the impact of discounts, product mix, and cost factors on overall profitability.
+
+---
+
+## Key Questions Answered
+
+1. Which **countries and regions** are generating negative profits?  
+2. Which **product sub-categories** contribute the most to losses?  
+3. Are **higher discounts** associated with negative profit regions?  
+4. How do **shipping costs impact** profitability in loss-making areas?  
+5. Which areas show **high sales but still result in negative profit**?  
+
+---
+
+## Key Insights
+
+* Several countries across **APAC, EMEA, and LATAM** are experiencing consistent losses.
+* Sub-categories like **Tables, Bookcases, and Machines** are major contributors to negative profit.
+* Higher **average discounts** are observed in many loss-making regions, indicating margin erosion.
+* Certain categories generate strong sales but fail to maintain profitability due to **cost and discount pressures**.
+
+---
+
+## Dashboard Features
+
+* KPI summary (Orders, Profit %, Shipping Cost)
+* Geographic view of loss-making countries
+* Sub-category level loss analysis
+* Market & region-wise breakdown of negative profits
+* Discount impact visibility
+
+---
+
+## Learning Outcome
+
+* Improved ability to analyze **profitability vs revenue**
+* Understanding of how **discounting and costs affect margins**
+* Enhanced skills in building **problem-focused dashboards**
+* Strengthened data storytelling with business context
+
+---
