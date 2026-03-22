@@ -130,18 +130,6 @@ To analyze negative profit across countries, products, and cost factors in order
 5. Which areas show **high sales but still result in negative profit**?  
 
 ---
- 
-### Story – Putting It All Together
-*Goal: Tell a clear business story using the 3 dashboards above*
- 
-- Start with the big picture: Total Sales, Profit, and Orders (Dashboard 1)
-- Highlight which region is performing best and which is struggling
-- Move to products: Show which categories are profitable and which are not (Dashboard 2)
-- Then zoom into customers: Show which segment drives the business (Dashboard 3)
-- End with a key insight: For example — *"Consumer segment in the APAC region drives the most sales, but Technology products in LATAM are being sold at a loss due to heavy discounts."*
-
----
----
 
 ## Day 3 – Sales Analysis Dashboard
 
