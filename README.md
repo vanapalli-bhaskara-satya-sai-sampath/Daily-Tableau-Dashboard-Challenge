@@ -267,3 +267,63 @@ To detect and analyze negative profit patterns and understand the impact of disc
 * Strengthened data storytelling with business context
 
 ---
+
+## Day  – 7 : Sales Insights Dashboard  
+
+🔗 **Live Dashboard:**  
+https://public.tableau.com/app/profile/sampath.vanapalli/viz/23-03_17742849779970/Dashboard1?publish=yes  
+
+---
+
+### 📊 Overview  
+
+This dashboard focuses on analyzing **sales performance and key business insights** using interactive visualizations.  
+
+The goal of this dashboard is to explore patterns in sales, profit, and performance across different dimensions to support better decision-making.
+
+---
+
+### 🎯 Objective  
+
+- To analyze overall sales and profit trends  
+- To identify high-performing and low-performing areas  
+- To understand how different factors impact business performance  
+- To improve data storytelling through clear and interactive visuals  
+
+---
+
+### ❓ Key Questions Answered  
+
+1. What is the overall sales and profit performance?  
+2. Which regions or segments are contributing the most to sales?  
+3. Where are we generating high sales but low profit?  
+4. Are there any loss-making areas that need attention?  
+5. What trends can be observed over time?  
+
+---
+
+### 📌 Key Insights  
+
+- Identified areas with strong sales but weak profitability  
+- Highlighted performance differences across regions/categories  
+- Revealed potential impact of discounts or costs on profit  
+- Provided a clear view of trends for better business understanding  
+
+---
+
+### 🛠️ Tools Used  
+
+- Tableau Public  
+- Data Visualization Techniques  
+- Interactive Dashboard Design  
+
+---
+
+### 🚀 Learning Outcome  
+
+- Improved ability to design interactive dashboards  
+- Better understanding of sales vs profit analysis  
+- Enhanced storytelling using data visualization  
+- Strengthened Tableau skills through daily practice  
+
+---
